@@ -1,18 +1,18 @@
 
-#Monorepo Management Documentation
+# Monorepo Management Documentation
 
 ## Table of Contents
 
-* [1. Introduction](#1-introduction)
-* [2. Why Monorepo?](#2-why-monorepo)
-* [3. Features of Monorepo](#3-features-of-monorepo)
-* [4. Advantages](#4-advantages)
-* [5. Challenges / Disadvantages](#5-challenges--disadvantages)
-* [6. Monorepo Workflow](#6-monorepo-workflow)
-* [7. Best Practices](#7-best-practices)
-* [8. Conclusion (Strategy to Follow)](#8-conclusion-strategy-to-follow)
-* [9. Contact Information](#9-contact-information)
-* [10. References](#10-references)
+ [1. Introduction](#1-introduction)
+ [2. Why Monorepo?](#2-why-monorepo)
+ [3. Features of Monorepo](#3-features-of-monorepo)
+ [4. Advantages](#4-advantages)
+ [5. Challenges / Disadvantages](#5-challenges--disadvantages)
+ [6. Monorepo Workflow](#6-monorepo-workflow)
+ [7. Best Practices](#7-best-practices)
+ [8. Conclusion (Strategy to Follow)](#8-conclusion-strategy-to-follow)
+ [9. Contact Information](#9-contact-information)
+ [10. References](#10-references)
 
 ---
 
